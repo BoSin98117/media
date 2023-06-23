@@ -1,0 +1,65 @@
+{
+  "users": [
+    {
+      "name": "Bo",
+      "id": 1
+    },
+    {
+      "name": "Oscar Runte",
+      "id": 2
+    },
+    {
+      "name": "Elizabeth Bayer",
+      "id": 3
+    }
+  ],
+  "albums": [
+    {
+      "userId": 3,
+      "title": "Fantastic Plastic Towels",
+      "id": 20
+    },
+    {
+      "userId": 3,
+      "title": "Electronic Frozen Tuna",
+      "id": 21
+    },
+    {
+      "userId": 2,
+      "title": "Awesome Soft Bike",
+      "id": 22
+    },
+    {
+      "userId": 1,
+      "title": "Electronic Rubber Salad",
+      "id": 24
+    },
+    {
+      "userId": 1,
+      "title": "Rustic Cotton Bike",
+      "id": 25
+    }
+  ],
+  "photos": [
+    {
+      "albumId": 22,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6609799795965952",
+      "id": 2
+    },
+    {
+      "albumId": 24,
+      "url": "https://loremflickr.com/150/150/abstract?lock=6441547864211456",
+      "id": 3
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=5396651967512576",
+      "id": 5
+    },
+    {
+      "albumId": 25,
+      "url": "https://loremflickr.com/150/150/abstract?lock=7583273198813184",
+      "id": 6
+    }
+  ]
+}
